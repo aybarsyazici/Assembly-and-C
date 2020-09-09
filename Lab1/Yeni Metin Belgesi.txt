@@ -1,0 +1,5 @@
+I've first tried writing the program into event.s
+I've manually traced the program several times and, I'm sure it should be working.
+But I havent managed to send it to the display, asked both of the TA's and they couldnt solve it.
+
+So I tried writing the program into egg_timer, but I havent had the chance to test it.
